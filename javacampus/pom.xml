@@ -46,10 +46,10 @@
         <version>1.6.0</version>  
         <configuration>
           <schemaVersion>V2</schemaVersion>
-          <resourceGroup>javacampus-1569457592609-rg</resourceGroup>
-          <appName>javacampus-1569457592609</appName>
-          <region>westeurope</region>
-          <pricingTier>P1V2</pricingTier>
+          <resourceGroup>javacampus</resourceGroup>
+          <appName>javacampus3</appName>
+          <region>centralus</region>
+          <pricingTier>S1</pricingTier>
           <runtime>
             <os>linux</os>
             <javaVersion>jre8</javaVersion>
